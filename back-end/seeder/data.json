@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Setup project structure",
+        "status": "todo",
+        "priority": 1,
+        "createdAt": "2025-08-01T10:00:00Z"
+    },
+    {
+        "title": "Implement authentication",
+        "status": "doing",
+        "priority": 2,
+        "createdAt": "2025-08-02T14:30:00Z"
+    },
+    {
+        "title": "Fix bug in login flow",
+        "status": "done",
+        "priority": 3,
+        "createdAt": "2025-08-03T09:15:00Z"
+    },
+    {
+        "title": "Add task pagination",
+        "status": "doing",
+        "priority": 2,
+        "createdAt": "2025-08-04T11:45:00Z"
+    },
+    {
+        "title": "Write unit tests",
+        "status": "todo",
+        "priority": 1,
+        "createdAt": "2025-08-05T08:00:00Z"
+    },
+    {
+        "title": "Optimize query performance",
+        "status": "done",
+        "priority": 3,
+        "createdAt": "2025-08-06T16:20:00Z"
+    },
+    {
+        "title": "Deploy to staging",
+        "status": "todo",
+        "priority": 1,
+        "createdAt": "2025-08-07T13:50:00Z"
+    },
+    {
+        "title": "Code review PR #45",
+        "status": "doing",
+        "priority": 2,
+        "createdAt": "2025-08-08T17:05:00Z"
+    },
+    {
+        "title": "Prepare documentation",
+        "status": "done",
+        "priority": 3,
+        "createdAt": "2025-08-09T19:10:00Z"
+    },
+    {
+        "title": "Release v1.0.0",
+        "status": "todo",
+        "priority": 1,
+        "createdAt": "2025-08-10T09:00:00Z"
+    }
+]
